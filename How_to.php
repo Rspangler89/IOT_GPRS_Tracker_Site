@@ -2,10 +2,6 @@
 
 //php logic for this page
 session_start();
-// include('/capstone_test/config_signup.php');
-// include('/capstone_test/config_login.php');
-// include('/capstone_test/tracking.php');
-// include('/capstone_test/index.php');
  ?>
 <!DOCTYPE html>
 <!-- meta tag below adjusts page scale for responsiveness -->
